@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test01</string>
+    <string name="next">Next</string>
+    <string name="first">First</string>
+    <string name="second">second</string>
+    <string name="back">back</string>
+</resources>
